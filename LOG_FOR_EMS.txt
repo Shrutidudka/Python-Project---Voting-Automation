@@ -1,0 +1,485 @@
+2022-06-11 14:02:20.194242: Connected to Database!
+2022-06-11 14:02:28.354606: admin 1 logged in
+2022-06-11 14:04:02.197999: Connected to Database!
+2022-06-11 14:04:36.350890: Connected to Database!
+2022-06-11 14:27:06.249779: Connected to Database!
+2022-06-11 14:30:31.371203: Connected to Database!
+2022-06-11 14:31:56.721681: Connected to Database!
+2022-06-11 14:32:01.186956: admin 1 logged in
+2022-06-11 14:32:16.017268: Connected to Database!
+2022-06-11 14:51:24.876698: Connected to Database!
+2022-06-11 14:51:42.834629: admin 1 logged in
+2022-06-11 15:00:38.392813: Connected to Database!
+2022-06-11 15:00:50.783121: Connected to Database!
+2022-06-11 15:00:56.662693: admin 1 logged in
+2022-06-11 15:07:35.801452: Connected to Database!
+2022-06-11 15:08:00.300562: Connected to Database!
+2022-06-11 15:08:05.551802: admin 1 logged in
+2022-06-11 15:23:01.554646: Connected to Database!
+2022-06-11 15:23:04.806582: admin 1 logged in
+2022-06-11 16:42:38.758458: Connected to Database!
+2022-06-11 16:43:49.298189: Connected to Database!
+2022-06-11 16:43:53.666898: admin 1 logged in
+2022-06-11 17:05:40.986107: Connected to Database!
+2022-06-11 17:05:43.712369: admin 1 logged in
+2022-06-11 17:05:48.669449: Connected to Database!
+2022-06-11 17:05:48.672448: ERROR!Cannot assign Constituency for value=
+2022-06-11 17:05:51.927576: Connected to Database!
+2022-06-11 17:05:51.931576: ERROR!Cannot assign Constituency for value=n
+2022-06-11 17:05:53.538642: Connected to Database!
+2022-06-11 17:05:57.611824: Connected to Database!
+2022-06-11 17:05:57.615822: New Constituency added in Election Table=nagpur
+2022-06-11 17:06:32.368349: Election start time set as: 2022/12/03/10/00/00 
+2022-06-11 17:06:32.369350: Election End time set as: 2023/01/17/10/00/00 
+2022-06-11 17:17:27.958492: Connected to Database!
+2022-06-11 17:17:30.716376: admin 1 logged in
+2022-06-11 17:17:35.379847: Connected to Database!
+2022-06-11 17:17:35.383845: New Constituency added in Election Table=nagpur
+2022-06-11 17:23:26.163343: Connected to Database!
+2022-06-11 17:23:29.323851: admin 1 logged in
+2022-06-11 17:23:40.504021: Connected to Database!
+2022-06-11 17:23:40.508020: New Constituency added in Election Table=nagpur
+2022-06-11 17:23:55.800984: Election start time set as: 2022/12/23/12/00/00 
+2022-06-11 17:23:55.801984: Election End time set as: 2023/02/06/12/00/00 
+2022-06-11 17:23:55.802984: Connected to Database!
+2022-06-11 17:45:52.986536: Connected to Database!
+2022-06-11 17:45:56.262406: admin 1 logged in
+2022-06-11 17:46:54.191054: Connected to Database!
+2022-06-11 17:46:56.942845: admin 1 logged in
+2022-06-11 17:47:00.221576: Admin chose "add voter" 
+2022-06-11 17:47:05.045046: Voter Name Assigned value=omisha sharma
+2022-06-11 17:47:05.047048: Connected to Database!
+2022-06-11 17:47:10.677256: Constituency Assigned Value: 4
+2022-06-11 17:47:26.850808: ERROR!Unable to assign DOB for values=2007/12/20
+2022-06-11 17:47:33.198128: ERROR!Unable to assign DOB for values=//
+2022-06-11 17:47:40.230156: DOB Assigned value=2000/10/25
+2022-06-11 17:49:13.580189: Connected to Database!
+2022-06-11 17:49:16.062903: admin 1 logged in
+2022-06-11 17:50:26.875837: Admin chose "add voter" 
+2022-06-11 17:50:29.545644: Voter Name Assigned value=omisha s
+2022-06-11 17:50:29.546642: Connected to Database!
+2022-06-11 17:50:32.357787: Connected to Database!
+2022-06-11 17:50:36.016935: ERROR!Unable to assign Constituency for value=wjuehehe
+2022-06-11 17:50:36.017936: Connected to Database!
+2022-06-11 17:50:44.278929: Constituency Assigned Value: 4
+2022-06-11 17:52:19.487104: DOB Assigned value=2000/12/30
+2022-06-11 18:00:41.966762: Connected to Database!
+2022-06-11 18:00:44.820522: admin 1 logged in
+2022-06-11 18:00:49.105224: Admin chose "add voter" 
+2022-06-11 18:00:53.807117: Voter Name Assigned value=omisha s
+2022-06-11 18:00:53.808119: Connected to Database!
+2022-06-11 18:00:57.266330: Constituency Assigned Value: 3
+2022-06-11 18:01:04.805620: DOB Assigned value=2000/10/25
+2022-06-11 18:01:04.806619: Connected to Database!
+2022-06-11 18:09:39.201224: Connected to Database!
+2022-06-11 18:09:41.797767: admin 1 logged in
+2022-06-12 01:01:56.797221: Connected to Database!
+2022-06-12 01:01:59.635772: admin 1 logged in
+2022-06-12 01:05:03.444135: Connected to Database!
+2022-06-12 01:05:08.856787: admin 1 logged in
+2022-06-12 01:06:48.472822: Connected to Database!
+2022-06-12 01:06:58.919368: admin 1 logged in
+2022-06-12 01:07:13.491043: Connected to Database!
+2022-06-12 01:07:13.493041: Connected to Database!
+2022-06-12 01:10:33.881734: Connected to Database!
+2022-06-12 01:10:38.032710: admin 1 logged in
+2022-06-12 01:10:45.730611: Connected to Database!
+2022-06-12 01:10:45.733611: Connected to Database!
+2022-06-12 01:11:03.127701: ERROR!Unable to update name for value trisha
+2022-06-12 01:11:03.128699: Connected to Database!
+2022-06-12 01:11:03.130700: Connected to Database!
+2022-06-12 01:11:03.802744: Connected to Database!
+2022-06-12 01:11:06.838740: Connected to Database!
+2022-06-12 01:11:20.791447: Connected to Database!
+2022-06-12 01:11:30.821726: Connected to Database!
+2022-06-12 01:14:49.621952: Connected to Database!
+2022-06-12 01:14:52.781207: admin 1 logged in
+2022-06-12 01:14:58.972009: Connected to Database!
+2022-06-12 01:14:58.975005: Connected to Database!
+2022-06-12 01:16:05.213457: Connected to Database!
+2022-06-12 01:16:15.857983: admin 1 logged in
+2022-06-12 01:16:26.139160: Connected to Database!
+2022-06-12 01:16:26.140162: Connected to Database!
+2022-06-12 01:16:34.272779: ERROR!Unable to update name for value trisha 
+2022-06-12 01:16:41.721911: ERROR!Unable to update name for value trisha 900
+2022-06-12 01:16:47.576843: Name updated from PRISHA THAKUR to TRISHA THAKUR for Voter ID:2
+2022-06-12 01:23:11.379183: Connected to Database!
+2022-06-12 01:23:15.566835: admin 1 logged in
+2022-06-12 01:24:35.354903: Connected to Database!
+2022-06-12 01:24:40.695426: Connected to Database!
+2022-06-12 01:26:03.213934: Connected to Database!
+2022-06-12 01:26:06.075016: admin 1 logged in
+2022-06-12 01:26:13.263859: Connected to Database!
+2022-06-12 01:26:17.076776: Connected to Database!
+2022-06-12 01:27:07.988357: Connected to Database!
+2022-06-12 01:27:11.251372: admin 1 logged in
+2022-06-12 01:27:47.089106: Connected to Database!
+2022-06-12 01:27:53.589229: Connected to Database!
+2022-06-12 01:27:56.074511: Connected to Database!
+2022-06-12 01:27:58.752796: Connected to Database!
+2022-06-12 01:28:03.932172: Connected to Database!
+2022-06-12 01:32:31.210660: Connected to Database!
+2022-06-12 01:32:34.408493: admin 1 logged in
+2022-06-12 01:32:41.423164: Connected to Database!
+2022-06-12 01:32:42.702371: Connected to Database!
+2022-06-12 01:32:45.411785: Connected to Database!
+2022-06-12 01:32:47.681193: Connected to Database!
+2022-06-12 01:41:08.972525: Connected to Database!
+2022-06-12 01:41:20.968624: admin 1 logged in
+2022-06-12 01:41:32.507720: Connected to Database!
+2022-06-12 01:41:38.036235: Connected to Database!
+2022-06-12 01:41:39.364992: Connected to Database!
+2022-06-12 01:41:41.058632: Connected to Database!
+2022-06-12 01:41:46.800225: Connected to Database!
+2022-06-12 01:41:53.105607: 
+Constituency updated from PUNE to MUMBAI for voter ID: 2
+2022-06-12 02:09:37.462301: Connected to Database!
+2022-06-12 02:09:40.597502: admin 1 logged in
+2022-06-12 02:11:30.171749: Connected to Database!
+2022-06-12 02:11:30.174744: ERROR!Cannot assign Constituency for value=
+2022-06-12 02:11:33.577381: Connected to Database!
+2022-06-12 02:11:33.582383: ERROR!Cannot assign Constituency for value=123
+2022-06-12 02:11:37.959610: Connected to Database!
+2022-06-12 02:11:37.962610: ERROR!Cannot assign Constituency for value=tutut
+2022-06-12 02:11:44.597260: Connected to Database!
+2022-06-12 02:11:49.060299: Connected to Database!
+2022-06-12 02:11:49.063297: New Constituency added in Election Table=raigad
+2022-06-12 02:12:35.155429: Election start time set as: 2022/11/12/13/14/00 
+2022-06-12 02:12:35.156429: Election End time set as: 2022/12/28/13/14/00 
+2022-06-12 02:12:35.157428: Connected to Database!
+2022-06-12 02:13:47.599872: Connected to Database!
+2022-06-12 02:13:51.567109: admin 1 logged in
+2022-06-12 02:14:05.160561: Admin chose "add voter" 
+2022-06-12 02:35:03.284615: Connected to Database!
+2022-06-12 02:35:13.598853: admin 1 logged in
+2022-06-12 02:35:24.573425: Connected to Database!
+2022-06-12 02:35:24.577422: New Constituency added in Election Table=nagpur
+2022-06-12 02:35:45.096509: Election start time set as: 2022/12/23/10/00/00 
+2022-06-12 02:35:45.097507: Election End time set as: 2023/02/06/10/00/00 
+2022-06-12 02:35:45.099507: Connected to Database!
+2022-06-12 02:35:50.579185: Admin chose "add voter" 
+2022-06-12 02:35:56.658345: Voter Name Assigned value=full name
+2022-06-12 02:35:56.738049: Connected to Database!
+2022-06-12 14:11:36.931048: Connected to Database!
+2022-06-12 14:13:00.517272: admin 1 logged in
+2022-06-12 14:15:44.678506: Connected to Database!
+2022-06-12 14:15:44.749619: New Constituency added in Election Table=kolhapur
+2022-06-12 14:16:28.766281: Election start time set as: 2022/12/12/12/12/00 
+2022-06-12 14:16:28.767280: Election End time set as: 2023/01/16/12/12/00 
+2022-06-12 14:16:28.768281: Connected to Database!
+2022-06-12 14:16:48.561438: Admin chose "add voter" 
+2022-06-12 14:16:53.483647: Voter Name Assigned value=full name
+2022-06-12 14:16:53.614436: Connected to Database!
+2022-06-12 14:30:49.125134: Connected to Database!
+2022-06-12 14:30:56.776319: admin 1 logged in
+2022-06-12 14:31:02.350236: Admin chose "add voter" 
+2022-06-12 14:31:09.704201: Voter Name Assigned value=jia sh
+2022-06-12 14:31:09.706203: Connected to Database!
+2022-06-12 14:47:31.941612: Connected to Database!
+2022-06-12 14:47:36.536811: admin 1 logged in
+2022-06-12 14:47:40.347509: Admin chose "add voter" 
+2022-06-12 14:47:44.327432: Voter Name Assigned value=full name
+2022-06-12 14:47:44.329438: Connected to Database!
+2022-06-12 14:52:41.879962: Connected to Database!
+2022-06-12 14:52:48.312076: admin 1 logged in
+2022-06-12 14:52:55.611250: Admin chose "add voter" 
+2022-06-12 14:53:01.344989: Voter Name Assigned value=full name
+2022-06-12 14:53:01.346992: Connected to Database!
+2022-06-12 14:53:07.411087: Constituency Assigned Value: 8
+2022-06-12 14:53:27.807618: Connected to Database!
+2022-06-12 14:53:31.982052: admin 1 logged in
+2022-06-12 14:53:34.768118: Admin chose "add voter" 
+2022-06-12 14:53:40.949121: Voter Name Assigned value=full name
+2022-06-12 14:53:40.951122: Connected to Database!
+2022-06-12 14:53:47.242550: Constituency Assigned Value: 11
+2022-06-12 14:55:43.972420: Connected to Database!
+2022-06-12 14:55:47.668955: admin 1 logged in
+2022-06-12 14:55:49.454997: Admin chose "add voter" 
+2022-06-12 14:55:55.208154: Voter Name Assigned value=full name
+2022-06-12 14:55:55.209153: Connected to Database!
+2022-06-12 14:59:22.724367: Connected to Database!
+2022-06-12 14:59:25.319162: admin 1 logged in
+2022-06-12 14:59:29.200362: Admin chose "add voter" 
+2022-06-12 14:59:33.310749: Voter Name Assigned value=full name
+2022-06-12 14:59:33.311756: Connected to Database!
+2022-06-12 15:00:15.700011: Connected to Database!
+2022-06-12 15:00:19.081410: admin 1 logged in
+2022-06-12 15:00:26.807176: Connected to Database!
+2022-06-12 15:00:26.810171: ERROR!Cannot assign Constituency for value=full name
+2022-06-12 15:00:38.559868: Connected to Database!
+2022-06-12 15:00:44.548686: admin 1 logged in
+2022-06-12 15:00:48.023920: Admin chose "add voter" 
+2022-06-12 15:01:01.638641: Voter Name Assigned value=full name
+2022-06-12 15:01:01.640643: Connected to Database!
+2022-06-12 15:01:06.725725: Constituency Assigned Value: 11
+2022-06-12 15:08:06.284885: Connected to Database!
+2022-06-12 15:08:12.407725: admin 1 logged in
+2022-06-12 15:08:15.902338: Admin chose "add voter" 
+2022-06-12 15:08:24.819472: Voter Name Assigned value=full name
+2022-06-12 15:08:24.821471: Connected to Database!
+2022-06-12 15:08:29.084832: Constituency Assigned Value: 12
+2022-06-12 15:09:50.746436: ERROR!Unable to assign DOB for values=//
+2022-06-12 15:09:56.361282: ERROR!Unable to assign DOB for values=poppp/jujiu79/jjh
+2022-06-12 15:10:05.007387: ERROR!Unable to assign DOB for values=oouou/iiii/99000
+2022-06-12 15:10:06.378630: ERROR!Unable to assign DOB for values=//
+2022-06-12 15:10:16.936383: DOB Assigned value=2000/12/7
+2022-06-12 15:10:16.938382: Connected to Database!
+2022-06-12 15:12:45.350294: Connected to Database!
+2022-06-12 15:12:52.948553: Connected to Database!
+2022-06-12 15:12:59.721233: admin 1 logged in
+2022-06-12 15:13:20.129155: Connected to Database!
+2022-06-12 15:13:20.131154: ERROR!Cannot assign Constituency for value=mumbai
+2022-06-12 15:13:39.567206: Connected to Database!
+2022-06-12 15:13:39.569207: ERROR!Cannot assign Constituency for value=balapur
+2022-06-12 15:13:57.338218: Connected to Database!
+2022-06-12 15:13:57.341217: New Constituency added in Election Table=rajapur
+2022-06-12 15:14:49.536582: Election start time set as: 2022/12/12/12/12/00 
+2022-06-12 15:14:49.537578: Election End time set as: 2023/02/06/12/12/00 
+2022-06-12 15:14:49.538578: Connected to Database!
+2022-06-12 15:15:11.828850: Connected to Database!
+2022-06-12 15:15:11.830831: Connected to Database!
+2022-06-12 15:15:24.332802: Name updated from TRISHA THAKUR to PRISHA THAKUR for Voter ID:2
+2022-06-12 15:15:59.708446: Connected to Database!
+2022-06-12 15:16:10.294211: Connected to Database!
+2022-06-12 15:22:41.228835: Connected to Database!
+2022-06-12 15:22:43.816376: admin 1 logged in
+2022-06-12 15:23:13.116283: Connected to Database!
+2022-06-12 15:23:15.560380: Connected to Database!
+2022-06-12 15:23:23.872610: ERROR!Cannot update constituency
+2022-06-12 15:23:30.136096: ERROR!Cannot update constituency
+2022-06-12 15:23:37.960965: 
+Constituency updated from MUMBAI to RAJAPUR for voter ID: 2
+2022-06-12 15:23:56.370431: Connected to Database!
+2022-06-12 15:23:57.195991: Connected to Database!
+2022-06-12 15:23:59.107240: Connected to Database!
+2022-06-12 15:24:01.868640: Connected to Database!
+2022-06-12 15:24:08.245767: Connected to Database!
+2022-06-12 15:24:26.882141: ERROR!Unable to assign DOB for values=2009/12/12
+2022-06-12 15:24:39.318716: DOB Assigned value=2000/10/25
+2022-06-12 15:24:39.319716: DOB updated from 2002_06_21 to 2000_10_25 for Voter ID:2
+2022-06-12 23:31:13.850550: Connected to Database!
+2022-06-12 23:31:17.022071: admin 1 logged in
+2022-06-12 23:31:37.103748: Connected to Database!
+2022-06-12 23:37:15.423537: Connected to Database!
+2022-06-12 23:37:17.928306: Connected to Database!
+2022-06-12 23:37:19.140530: Connected to Database!
+2022-06-12 23:37:24.596304: Connected to Database!
+2022-06-12 23:38:50.998014: Connected to Database!
+2022-06-12 23:38:52.354290: Connected to Database!
+2022-06-12 23:38:54.319159: Connected to Database!
+2022-06-12 23:38:55.932647: Connected to Database!
+2022-06-12 23:40:56.319148: Connected to Database!
+2022-06-12 23:40:58.525410: Connected to Database!
+2022-06-12 23:40:59.254465: Connected to Database!
+2022-06-12 23:41:00.661643: Connected to Database!
+2022-06-12 23:42:13.435458: Connected to Database!
+2022-06-12 23:42:14.448237: Connected to Database!
+2022-06-12 23:42:16.832838: Connected to Database!
+2022-06-12 23:42:18.290864: Connected to Database!
+2022-06-12 23:42:19.009652: Connected to Database!
+2022-06-12 23:42:24.392553: Connected to Database!
+2022-06-12 23:42:26.981579: Connected to Database!
+2022-06-12 23:44:54.788436: Connected to Database!
+2022-06-12 23:44:56.955421: Connected to Database!
+2022-06-12 23:45:00.773856: Connected to Database!
+2022-06-12 23:45:15.380351: Connected to Database!
+2022-06-12 23:45:15.877687: Connected to Database!
+2022-06-12 23:45:17.658093: Connected to Database!
+2022-06-12 23:45:22.752798: Voter ID= 9 logged in.
+2022-06-13 02:26:54.844164: Connected to Database!
+2022-06-13 02:26:55.677133: Connected to Database!
+2022-06-13 02:26:57.131919: Connected to Database!
+2022-06-13 02:26:59.681231: Connected to Database!
+2022-06-13 02:27:45.329760: Connected to Database!
+2022-06-13 02:27:46.395316: Connected to Database!
+2022-06-13 02:27:47.761459: Connected to Database!
+2022-06-13 02:27:51.581565: Connected to Database!
+2022-06-13 02:27:55.495932: Voter ID= 9 logged in.
+2022-06-13 02:30:19.645102: Connected to Database!
+2022-06-13 02:30:22.422282: Voter ID= 9 logged in.
+2022-06-13 02:31:11.836611: Connected to Database!
+2022-06-13 02:31:13.885309: Voter ID= 9 logged in.
+2022-06-13 02:33:02.566650: Connected to Database!
+2022-06-13 02:33:03.991991: Voter ID= 9 logged in.
+2022-06-13 02:35:06.164350: Connected to Database!
+2022-06-13 02:35:08.766397: Voter ID= 9 logged in.
+2022-06-13 02:35:11.770612: Connected to Database!
+2022-06-13 02:35:15.950348: Connected to Database!
+2022-06-13 02:36:13.834348: Connected to Database!
+2022-06-13 02:36:16.531969: Voter ID= 9 logged in.
+2022-06-13 02:36:31.284619: Connected to Database!
+2022-06-13 02:37:25.321583: Connected to Database!
+2022-06-13 02:37:27.672545: Voter ID= 9 logged in.
+2022-06-13 02:37:30.164338: Connected to Database!
+2022-06-13 02:37:30.168340: Connected to Database!
+2022-06-13 02:37:30.221612: Connected to Database!
+2022-06-13 02:41:29.331458: Connected to Database!
+2022-06-13 02:41:32.032475: Voter ID= 9 logged in.
+2022-06-13 02:41:35.237726: Connected to Database!
+2022-06-13 02:41:35.241724: Connected to Database!
+2022-06-13 02:41:35.244724: Connected to Database!
+2022-06-13 02:46:31.471811: Connected to Database!
+2022-06-13 02:46:35.980995: Voter ID= 9 logged in.
+2022-06-13 02:47:21.945108: Connected to Database!
+2022-06-13 02:47:21.949103: Connected to Database!
+2022-06-13 02:47:21.952106: Connected to Database!
+2022-06-13 03:02:46.877115: Connected to Database!
+2022-06-13 03:02:48.775584: Voter ID= 9 logged in.
+2022-06-13 03:02:53.252484: Connected to Database!
+2022-06-13 03:05:05.710083: Connected to Database!
+2022-06-13 03:05:08.068260: Voter ID= 9 logged in.
+2022-06-13 03:05:15.740306: Connected to Database!
+2022-06-13 03:05:15.745310: Connected to Database!
+2022-06-13 03:05:15.747306: Connected to Database!
+2022-06-13 03:05:46.184877: Connected to Database!
+2022-06-13 03:05:46.191874: Connected to Database!
+2022-06-13 03:05:55.890975: Connected to Database!
+2022-06-13 03:05:55.915977: Connected to Database!
+2022-06-13 03:11:50.283632: Connected to Database!
+2022-06-13 03:11:52.265829: Voter ID= 9 logged in.
+2022-06-13 03:11:54.117937: Connected to Database!
+2022-06-13 03:11:54.121937: Connected to Database!
+2022-06-13 03:11:54.124937: Connected to Database!
+2022-06-13 03:13:54.006709: Connected to Database!
+2022-06-13 03:13:55.356814: Voter ID= 9 logged in.
+2022-06-13 03:14:12.889978: Connected to Database!
+2022-06-13 03:14:53.725467: Connected to Database!
+2022-06-13 03:14:53.730468: Connected to Database!
+2022-06-13 03:14:53.735468: Connected to Database!
+2022-06-13 03:14:55.083791: Connected to Database!
+2022-06-13 03:14:55.090793: Connected to Database!
+2022-06-13 03:15:07.493714: Connected to Database!
+2022-06-13 03:15:07.496713: Connected to Database!
+2022-06-13 03:15:27.382985: Connected to Database!
+2022-06-13 03:15:27.385989: Connected to Database!
+2022-06-13 03:15:37.090362: Connected to Database!
+2022-06-13 03:15:45.646124: Connected to Database!
+2022-06-13 03:15:45.649125: Connected to Database!
+2022-06-13 03:18:17.149234: Connected to Database!
+2022-06-13 03:18:24.499910: Voter ID= 9 logged in.
+2022-06-13 03:18:32.870159: Connected to Database!
+2022-06-13 03:18:32.874156: Connected to Database!
+2022-06-13 03:19:07.910886: Connected to Database!
+2022-06-13 03:19:09.932439: Voter ID= 9 logged in.
+2022-06-13 03:19:22.793781: Connected to Database!
+2022-06-13 03:19:25.240420: Voter ID= 9 logged in.
+2022-06-13 03:20:00.561064: Connected to Database!
+2022-06-13 03:20:00.565062: Connected to Database!
+2022-06-13 03:22:46.967603: Connected to Database!
+2022-06-13 03:22:49.154300: Voter ID= 9 logged in.
+2022-06-13 03:22:52.065400: Connected to Database!
+2022-06-13 03:22:52.074409: Connected to Database!
+2022-06-13 03:32:27.552476: Connected to Database!
+2022-06-13 03:32:29.930774: Voter ID= 9 logged in.
+2022-06-13 03:32:33.641373: Connected to Database!
+2022-06-13 03:32:33.644371: Connected to Database!
+2022-06-13 03:32:33.648372: Connected to Database!
+2022-06-13 03:35:09.696459: Connected to Database!
+2022-06-13 03:35:09.700461: Connected to Database!
+2022-06-13 03:35:13.528034: Connected to Database!
+2022-06-13 03:35:13.532031: Connected to Database!
+2022-06-13 03:35:34.460583: Connected to Database!
+2022-06-13 03:36:33.245847: Connected to Database!
+2022-06-13 03:36:33.247847: Connected to Database!
+2022-06-13 03:48:29.062788: Connected to Database!
+2022-06-13 03:48:34.638097: Voter ID= 1 logged in.
+2022-06-13 03:48:37.739526: Connected to Database!
+2022-06-13 03:48:37.744525: Connected to Database!
+2022-06-13 03:48:45.126798: Connected to Database!
+2022-06-13 03:48:45.130802: Connected to Database!
+2022-06-13 03:50:19.294405: Connected to Database!
+2022-06-13 03:50:29.035907: Voter ID= 1 logged in.
+2022-06-13 03:50:33.090397: Connected to Database!
+2022-06-13 03:50:44.808370: Connected to Database!
+2022-06-13 03:51:42.948894: Connected to Database!
+2022-06-13 03:51:45.576689: admin 1 logged in
+2022-06-13 03:55:20.863439: Connected to Database!
+2022-06-13 04:43:28.926484: Connected to Database!
+2022-06-13 04:44:27.221607: Connected to Database!
+2022-06-13 04:44:41.499997: admin 1 logged in
+2022-06-13 04:44:47.834301: Connected to Database!
+2022-06-13 04:44:47.837306: ERROR!Cannot assign Constituency for value=delhi
+2022-06-13 04:44:51.686173: Connected to Database!
+2022-06-13 04:44:51.689174: ERROR!Cannot assign Constituency for value=
+2022-06-13 04:44:54.423002: Connected to Database!
+2022-06-13 04:44:54.425999: ERROR!Cannot assign Constituency for value=1234
+2022-06-13 04:44:58.339859: Connected to Database!
+2022-06-13 04:44:58.342859: New Constituency added in Election Table=nagpur
+2022-06-13 04:47:13.397885: Election start time set as: 2022/12/12/12/12/00 
+2022-06-13 04:47:13.398887: Election End time set as: 2023/01/16/12/12/00 
+2022-06-13 04:47:13.399883: Connected to Database!
+2022-06-13 04:47:32.426676: Admin chose "add voter" 
+2022-06-13 04:47:51.883409: Voter Name Assigned value=pooja sharma
+2022-06-13 04:47:51.955407: Connected to Database!
+2022-06-13 04:48:24.735365: Constituency Assigned Value: 10
+2022-06-13 04:48:52.062433: ERROR!Unable to assign DOB for values=1998//kkf
+2022-06-13 04:49:00.061134: ERROR!Unable to assign DOB for values=/12/2018
+2022-06-13 04:49:10.975009: ERROR!Unable to assign DOB for values=12/12/20
+2022-06-13 04:49:31.702706: ERROR!Unable to assign DOB for values=23/oo/yy
+2022-06-13 04:50:55.198420: ERROR!Unable to assign DOB for values=3000/8/8
+2022-06-13 04:51:21.238325: DOB Assigned value=2000/10/25
+2022-06-13 04:51:21.239324: Connected to Database!
+2022-06-13 04:53:02.743099: Connected to Database!
+2022-06-13 04:53:02.745104: Connected to Database!
+2022-06-13 04:53:24.709342: Connected to Database!
+2022-06-13 04:53:37.658712: Name updated from PRISHA THAKUR to TRISHA THAKUR for Voter ID:2
+2022-06-13 04:53:59.590288: Connected to Database!
+2022-06-13 04:53:59.591287: Connected to Database!
+2022-06-13 04:54:10.206583: Name updated from TRISHA THAKUR to PRISHA THAKUR for Voter ID:2
+2022-06-13 04:54:23.499967: Connected to Database!
+2022-06-13 04:54:28.508416: Connected to Database!
+2022-06-13 04:54:43.979973: 
+Constituency updated from LATUR to PUNE for voter ID: 2
+2022-06-13 04:54:49.439504: Connected to Database!
+2022-06-13 04:54:51.722087: Connected to Database!
+2022-06-13 04:55:02.593702: ERROR!Unable to assign DOB for values=2000/10/25
+2022-06-13 04:55:11.279097: DOB Assigned value=2000/10/25
+2022-06-13 04:55:11.280098: DOB updated from 2000_10_25 to 2000_10_25 for Voter ID:2
+2022-06-13 04:55:41.973280: Connected to Database!
+2022-06-13 04:55:46.895108: Voter ID= 9 logged in.
+2022-06-13 04:55:57.401511: Connected to Database!
+2022-06-13 04:55:57.403510: Connected to Database!
+2022-06-13 04:55:57.405509: Connected to Database!
+2022-06-13 04:56:57.655612: Connected to Database!
+2022-06-13 04:56:57.658635: Connected to Database!
+2022-06-13 04:57:11.647203: Connected to Database!
+2022-06-13 04:57:20.368569: Connected to Database!
+2022-06-13 04:57:20.370570: Connected to Database!
+2022-06-13 04:57:37.507241: Connected to Database!
+2022-06-13 04:57:45.266660: Voter ID= 1 logged in.
+2022-06-13 04:57:57.772412: Connected to Database!
+2022-06-13 04:58:10.216009: Connected to Database!
+2022-06-13 04:58:21.672120: Connected to Database!
+2022-06-13 04:58:21.674113: Connected to Database!
+2022-07-24 09:25:41.414941: Connected to Database!
+2022-07-24 09:27:07.142966: Connected to Database!
+2022-07-24 09:27:12.529297: admin 1 logged in
+2022-07-24 09:27:46.806604: Connected to Database!
+2022-07-24 09:27:46.807739: ERROR!Cannot assign Constituency for value=kharadi
+2022-07-24 09:28:05.758213: Connected to Database!
+2022-07-24 09:28:05.758834: ERROR!Cannot assign Constituency for value=wakad
+2022-07-24 09:28:17.782622: Connected to Database!
+2022-07-24 09:28:17.783715: New Constituency added in Election Table=Nagpur
+2022-07-24 09:30:35.713282: Election start time set as: 2022/08/08/08/08/00 
+2022-07-24 09:30:35.713876: Election End time set as: 2022/09/07/08/08/00 
+2022-07-24 09:30:35.714595: Connected to Database!
+2022-07-24 09:30:49.900501: Admin chose "add voter" 
+2022-07-24 09:31:02.789077: Voter Name Assigned value=Sumit Pune
+2022-07-24 09:31:02.789910: Connected to Database!
+2022-07-24 09:31:22.376791: Constituency Assigned Value: 9
+2022-07-24 09:31:48.896913: ERROR!Unable to assign DOB for values=2022/01/01/12/12
+2022-07-24 09:31:58.044826: ERROR!Unable to assign DOB for values=2022/12/12
+2022-07-24 09:32:17.997089: DOB Assigned value=1981/12/12
+2022-07-24 09:32:17.998170: Connected to Database!
+2022-07-24 09:33:54.942164: Connected to Database!
+2022-07-24 09:34:22.137348: Voter ID= 9 logged in.
+2022-07-24 09:34:37.804689: Connected to Database!
+2022-07-24 09:34:37.805388: Connected to Database!
+2022-07-24 09:34:37.805850: Connected to Database!
+2022-07-24 09:35:19.929852: Connected to Database!
+2022-07-24 09:35:34.248103: Connected to Database!
+2022-07-24 09:35:34.248769: Connected to Database!
+2022-07-24 09:37:50.510113: Connected to Database!
+2022-07-24 09:37:56.008066: Voter ID= 9 logged in.
+2022-07-24 09:37:58.118120: Connected to Database!
+2022-07-24 09:37:58.118878: Connected to Database!
